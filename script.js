@@ -33,14 +33,14 @@ $(document).ready(function () {
     });
  
     var typed = new Typed(".typing", {
-        strings: ["<span style='color: cyan;'>Web Developer</span>", "<span style='color: #00a8ff;'>Video Editor</span>", "<span style='color: red;'></span>"],
+        strings: ["<span style='color: cyan;'>Web Developer</span>", "<span style='color: #00a8ff;'></span>", "<span style='color: red;'></span>"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["<span style='color: cyan;'>Web Developer</span>", "<span style='color: #00a8ff;'>Video Editor</span>", "<span style='color: red;'></span>"],
+        strings: ["<span style='color: cyan;'>Web Developer</span>", "<span style='color: #00a8ff;'></span>", "<span style='color: red;'></span>"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
